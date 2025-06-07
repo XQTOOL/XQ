@@ -16,16 +16,13 @@ pkg install unzip
 rm -rf $HOME/XQ
 ```
 ```
-git clone https://github.com/XQTOOL/XQ
+git clone -b master https://github.com/XQTOOL/XQ.git
 ```
 ```
 (以上步骤建议打开VPN执行命令，否则无法下载XQ文件)
 ```
 ```
 cd XQ
-```
-```
-unzip XQ.zip && rm XQ.zip
 ```
 ```
 chmod +x setup
