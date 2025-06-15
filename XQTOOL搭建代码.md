@@ -25,10 +25,10 @@ git clone -b master https://github.com/XQTOOL/XQ.git
 cd XQ
 ```
 ```
-chmod +x 小柒
+chmod +x xq
 ```
 ```
- ./小柒
+ ./xq
 ```
 ```
    ⚠️首次使用请搭建环境
