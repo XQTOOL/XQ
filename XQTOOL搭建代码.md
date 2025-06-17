@@ -26,6 +26,7 @@ cd XQ
 ```
 ```
 chmod +x xq
+chmod +x setup
 ```
 ```
  ./xq
