@@ -10,7 +10,10 @@ apt upgrade
 pkg install git
 ```
 ```
-pkg install unzip
+pkg install libc++-dev
+```
+```
+pkg install libc++ -y
 ```
 ```
 rm -rf $HOME/XQ
