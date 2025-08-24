@@ -10,9 +10,6 @@ apt upgrade
 pkg install git
 ```
 ```
-pkg install libc++-dev
-```
-```
 pkg install libc++ -y
 ```
 ```
