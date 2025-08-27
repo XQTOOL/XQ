@@ -48,7 +48,7 @@ math filecount = 0
 math CHUNK_SIZE = 0x10000   # just in case...
 for I = 0 < FILES
     if runtimed == filecount
-       string namez = "file_"
+       string namez = "$"
        string namez + filecount
        string namez + "/"
        math filecount + 1000
